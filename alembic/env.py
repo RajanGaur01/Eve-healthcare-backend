@@ -27,6 +27,8 @@ CentreTest,
 DiagnosticCentre,
 DiagnosticTest,
 User,
+Payment,
+PaymentStatus,
 )
 config.set_main_option("sqlalchemy.url", settings.database_url)
 

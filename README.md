@@ -194,7 +194,7 @@ Install:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RajanGaur01/Eve-healthcare-backend
 cd eve-healthcare-backend
 ```
 

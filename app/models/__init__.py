@@ -1,3 +1,4 @@
+from app.models.booking import Booking, BookingStatus
 from app.models.centre import DiagnosticCentre
 from app.models.centre_test import CentreTest
 from app.models.diagnostic_test import DiagnosticTest
@@ -8,4 +9,6 @@ __all__ = [
     "DiagnosticCentre",
     "DiagnosticTest",
     "CentreTest",
+    "Booking",
+    "BookingStatus",
 ]
